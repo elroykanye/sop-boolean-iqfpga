@@ -1,0 +1,81 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+!s11f vlog 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/elroy/Dev/boolean1/simulation/qsim
+T_opt
+!s110 1684589439
+VE^Ba?7b60G4=J_J?8DUFj2
+Z2 04 20 4 work boolean1_vlg_vec_tst fast 0
+=1-c8f750242de5-6468cb7e-2d1-4bd8
+Z3 !s124 OEM10U2 
+o-quiet -auto_acc_if_foreign -work work -L cyclonev_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate_ver -L altera_lnsim_ver
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.2;73
+R1
+T_opt1
+!s110 1684591286
+VJnS;6PXS7Plch1Q_QI[D40
+R2
+=1-c8f750242de5-6468d2b1-27-6c8
+R3
+o-quiet -auto_acc_if_foreign -work work -L cyclonev_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate_ver -L altera_lnsim_ver +acc
+R4
+n@_opt1
+R5
+R1
+vboolean1
+Z6 !s110 1684591468
+!i10b 1
+!s100 dWBYL0@N`Sh9Uo;i2d=oW2
+IM>22V2G:Kea_k4UEfBWH62
+R1
+w1684591462
+8boolean1.vo
+Fboolean1.vo
+!i122 28
+L0 32 147
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2021.2;73
+r1
+!s85 0
+31
+!s108 1684591467.000000
+!s107 boolean1.vo|
+!s90 -work|work|boolean1.vo|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vboolean1_vlg_vec_tst
+R6
+!i10b 1
+!s100 IWHRW9F?W7E=gz4FE2kT62
+I<3NHJfEZX=YD_ZDWhJ^3:1
+R1
+w1684591456
+8boolean1.vwf.vt
+Fboolean1.vwf.vt
+!i122 29
+L0 30 56
+R7
+R8
+r1
+!s85 0
+31
+!s108 1684591468.000000
+!s107 boolean1.vwf.vt|
+!s90 -work|work|boolean1.vwf.vt|
+!i113 0
+R9
+R4
